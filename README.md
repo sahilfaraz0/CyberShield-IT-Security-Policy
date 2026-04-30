@@ -31,9 +31,3 @@ Aligned internal operations with national and international legal frameworks:
 *   Established a structured disciplinary process and incident escalation pathway.
 
 ---
-
-## 📂 Repository Structure
-```text
-├── README.md                                    # Project overview and domain breakdown
-└── Policies/
-    └── CyberShield_IT_Security_Policy_2025.pdf  # The official strategic policy document
