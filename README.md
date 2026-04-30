@@ -1,6 +1,9 @@
 # Corporate IT Security & Data Protection Policy Framework
 
-> **Academic Disclaimer:** This repository contains an academic case study and project submission for the **HND in Digital Technologies (Cybersecurity) - Unit 8: Security** module. It is strictly for portfolio and demonstration purposes. Other students may not use or copy this material for their own academic submissions.
+**Author:** Sahil Faraz | **Date:** June 2025
+
+> **Academic Disclaimer:** This repository contains an academic case study and project submission for the **Pearson B-TEC HND in Digital Technologies (Cybersecurity) - Unit 8: Security** module. It is strictly for portfolio and demonstration purposes. Other students may not use or copy this material for their own academic submissions.
+---
 
 ## 📌 Project Overview
 This project demonstrates the creation of a comprehensive, strategic IT governance document. Under the fictional entity **CyberShield Solutions**, this repository outlines a complete Cybersecurity and Data Protection Policy developed for a simulated client in the healthcare technology sector, **PakTech Medical Systems**.
